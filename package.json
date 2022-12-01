@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/SuperCALIENTITO/api-rest/issues"
   },
-  "homepage": "https://github.com/SuperCALIENTITO/api-rest#readme",
-  "dependencies": {
-    "gh-pages": "^4.0.0"
-  }
+  "homepage": "https://github.com/SuperCALIENTITO/api-rest#readme"
 }
